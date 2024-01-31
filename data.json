@@ -5,8 +5,8 @@
         "Date": "2024-01-31T07:00:00Z",
         "Sport": "Tennis",
         "Competition": "Hua Hin WTA",
-        "Equipe \u00e0 domicile": "Dalma Galfi",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Xiyu Wang"
+        "Equipe a domicile": "Dalma Galfi",
+        "Equipe a l'exterieur": "Xiyu Wang"
     },
     {
         "ID": 3002217252,
@@ -14,8 +14,8 @@
         "Date": "2024-01-31T09:00:00Z",
         "Sport": "Snooker",
         "Competition": "Masters d'Allemagne",
-        "Equipe \u00e0 domicile": "Kyren Wilson",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Ben Woollaston"
+        "Equipe a domicile": "Kyren Wilson",
+        "Equipe a l'exterieur": "Ben Woollaston"
     },
     {
         "ID": 3002217248,
@@ -23,8 +23,8 @@
         "Date": "2024-01-31T09:00:00Z",
         "Sport": "Snooker",
         "Competition": "Masters d'Allemagne",
-        "Equipe \u00e0 domicile": "Mark Davis",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Barry Hawkins"
+        "Equipe a domicile": "Mark Davis",
+        "Equipe a l'exterieur": "Barry Hawkins"
     },
     {
         "ID": 3002217250,
@@ -32,8 +32,8 @@
         "Date": "2024-01-31T09:00:00Z",
         "Sport": "Snooker",
         "Competition": "Masters d'Allemagne",
-        "Equipe \u00e0 domicile": "Ben Mertens",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Fan Zhengyi"
+        "Equipe a domicile": "Ben Mertens",
+        "Equipe a l'exterieur": "Fan Zhengyi"
     },
     {
         "ID": 3002220915,
@@ -41,26 +41,17 @@
         "Date": "2024-01-31T09:00:00Z",
         "Sport": "Snooker",
         "Competition": "Masters d'Allemagne",
-        "Equipe \u00e0 domicile": "Liu Hongyu",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Ishpreet Chadha"
+        "Equipe a domicile": "Liu Hongyu",
+        "Equipe a l'exterieur": "Ishpreet Chadha"
     },
     {
         "ID": 3002219179,
         "Nom": "D. Shnaider - P. Badosa Gibert",
-        "Date": "2024-01-31T09:45:00Z",
+        "Date": "2024-01-31T09:55:00Z",
         "Sport": "Tennis",
         "Competition": "Hua Hin WTA",
-        "Equipe \u00e0 domicile": "Diana Shnaider",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Paula Badosa Gibert"
-    },
-    {
-        "ID": 3002218664,
-        "Nom": "X. Y. Wang - N. Hibino",
-        "Date": "2024-01-31T10:40:00Z",
-        "Sport": "Tennis",
-        "Competition": "Hua Hin WTA",
-        "Equipe \u00e0 domicile": "Xin Yu Wang",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Nao Hibino"
+        "Equipe a domicile": "Diana Shnaider",
+        "Equipe a l'exterieur": "Paula Badosa Gibert"
     },
     {
         "ID": 3002219421,
@@ -68,8 +59,8 @@
         "Date": "2024-01-31T11:00:00Z",
         "Sport": "Tennis",
         "Competition": "Linz WTA",
-        "Equipe \u00e0 domicile": "Anastasia Potapova",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Sara Errani"
+        "Equipe a domicile": "Anastasia Potapova",
+        "Equipe a l'exterieur": "Sara Errani"
     },
     {
         "ID": 3002220391,
@@ -77,8 +68,8 @@
         "Date": "2024-01-31T11:00:00Z",
         "Sport": "Tennis",
         "Competition": "Linz WTA",
-        "Equipe \u00e0 domicile": "Jaqueline Adina Cristian",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Jodie Anna Burrage"
+        "Equipe a domicile": "Jaqueline Adina Cristian",
+        "Equipe a l'exterieur": "Jodie Anna Burrage"
     },
     {
         "ID": 3002212568,
@@ -86,8 +77,8 @@
         "Date": "2024-01-31T11:30:00Z",
         "Sport": "Football",
         "Competition": "Coupe d'Asie",
-        "Equipe \u00e0 domicile": "Bahre\u00efn",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Japon"
+        "Equipe a domicile": "Bahre\u00efn",
+        "Equipe a l'exterieur": "Japon"
     },
     {
         "ID": 3002219429,
@@ -95,17 +86,17 @@
         "Date": "2024-01-31T11:30:00Z",
         "Sport": "Tennis",
         "Competition": "Montpellier ATP",
-        "Equipe \u00e0 domicile": "Alexander Shevchenko",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Dalibor Svrcina"
+        "Equipe a domicile": "Alexander Shevchenko",
+        "Equipe a l'exterieur": "Dalibor Svrcina"
     },
     {
-        "ID": 3002220346,
-        "Nom": "V. Golubic - Y. Putintseva",
-        "Date": "2024-01-31T11:55:00Z",
+        "ID": 3002218664,
+        "Nom": "X. Y. Wang - N. Hibino",
+        "Date": "2024-01-31T11:30:00Z",
         "Sport": "Tennis",
         "Competition": "Hua Hin WTA",
-        "Equipe \u00e0 domicile": "Viktorija Golubic",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Yulia Putintseva"
+        "Equipe a domicile": "Xin Yu Wang",
+        "Equipe a l'exterieur": "Nao Hibino"
     },
     {
         "ID": 3002219412,
@@ -113,8 +104,8 @@
         "Date": "2024-01-31T12:15:00Z",
         "Sport": "Tennis",
         "Competition": "Linz WTA",
-        "Equipe \u00e0 domicile": "Dayana Yastremska",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Erika Andreeva"
+        "Equipe a domicile": "Dayana Yastremska",
+        "Equipe a l'exterieur": "Erika Andreeva"
     },
     {
         "ID": 3002217113,
@@ -122,8 +113,17 @@
         "Date": "2024-01-31T12:50:00Z",
         "Sport": "Tennis",
         "Competition": "Montpellier ATP",
-        "Equipe \u00e0 domicile": "Bernabe Zapata Miralles",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Constant Lestienne"
+        "Equipe a domicile": "Bernabe Zapata Miralles",
+        "Equipe a l'exterieur": "Constant Lestienne"
+    },
+    {
+        "ID": 3002220346,
+        "Nom": "V. Golubic - Y. Putintseva",
+        "Date": "2024-01-31T13:00:00Z",
+        "Sport": "Tennis",
+        "Competition": "Hua Hin WTA",
+        "Equipe a domicile": "Viktorija Golubic",
+        "Equipe a l'exterieur": "Yulia Putintseva"
     },
     {
         "ID": 3002220515,
@@ -131,8 +131,8 @@
         "Date": "2024-01-31T13:30:00Z",
         "Sport": "Tennis",
         "Competition": "Montpellier ATP",
-        "Equipe \u00e0 domicile": "Michael Mmoh",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Alexandre Muller"
+        "Equipe a domicile": "Michael Mmoh",
+        "Equipe a l'exterieur": "Alexandre Muller"
     },
     {
         "ID": 3002220825,
@@ -140,8 +140,8 @@
         "Date": "2024-01-31T14:00:00Z",
         "Sport": "Snooker",
         "Competition": "Masters d'Allemagne",
-        "Equipe \u00e0 domicile": "John Higgins",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Zhou Yuelong"
+        "Equipe a domicile": "John Higgins",
+        "Equipe a l'exterieur": "Zhou Yuelong"
     },
     {
         "ID": 3002220914,
@@ -149,8 +149,8 @@
         "Date": "2024-01-31T14:00:00Z",
         "Sport": "Snooker",
         "Competition": "Masters d'Allemagne",
-        "Equipe \u00e0 domicile": "Mark Allen",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Joe O'Connor"
+        "Equipe a domicile": "Mark Allen",
+        "Equipe a l'exterieur": "Joe O'Connor"
     },
     {
         "ID": 3002220827,
@@ -158,8 +158,8 @@
         "Date": "2024-01-31T14:00:00Z",
         "Sport": "Snooker",
         "Competition": "Masters d'Allemagne",
-        "Equipe \u00e0 domicile": "Andrew Pagett",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Yuan Sijun"
+        "Equipe a domicile": "Andrew Pagett",
+        "Equipe a l'exterieur": "Yuan Sijun"
     },
     {
         "ID": 3002220864,
@@ -167,8 +167,8 @@
         "Date": "2024-01-31T14:00:00Z",
         "Sport": "Snooker",
         "Competition": "Masters d'Allemagne",
-        "Equipe \u00e0 domicile": "SI Jiahui",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Alfie Davies"
+        "Equipe a domicile": "SI Jiahui",
+        "Equipe a l'exterieur": "Alfie Davies"
     },
     {
         "ID": 3002220863,
@@ -176,7 +176,7 @@
         "Date": "2024-01-31T14:00:00Z",
         "Sport": "Snooker",
         "Competition": "Masters d'Allemagne",
-        "Equipe \u00e0 domicile": "Julien Leclercq",
-        "Equipe \u00e0 l'ext\u00e9rieur": "Jordan Brown"
+        "Equipe a domicile": "Julien Leclercq",
+        "Equipe a l'exterieur": "Jordan Brown"
     }
 ]

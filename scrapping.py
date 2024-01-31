@@ -44,8 +44,8 @@ for match in data:
     }
 
     if 'contestants' in match and len(match['contestants']) >= 2:
-        extracted_info["Equipe à domicile"] = match['contestants'][0]['name']
-        extracted_info["Equipe à l'extérieur"] = match['contestants'][1]['name']
+        extracted_info["Equipe a domicile"] = match['contestants'][0]['name']
+        extracted_info["Equipe a l'exterieur"] = match['contestants'][1]['name']
 
     extracted_data.append(extracted_info)
 
